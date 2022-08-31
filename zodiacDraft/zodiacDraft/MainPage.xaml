@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="zodiacDraft.MainPage">
+    <StackLayout BackgroundColor="DarkViolet">
+        <Frame BackgroundColor="Salmon"   Padding="16"  Margin="15">
+            <Label Text="Welcome to the Zodiac Application" Font ="High Tower text" HorizontalTextAlignment="Center" TextColor="Black" FontSize="48"/>
+        </Frame>
+
+    
+
+        <Grid BackgroundColor="DarkTurquoise">
+            <Button x:Name="Button1" Font ="High Tower text" FontSize="Medium" TextColor="Black" Clicked="Button1_Clicked" Margin="5" Padding="2" CornerRadius="10"  Grid.Row="0" Grid.Column="0" Text="Aries" BackgroundColor="LightBlue" />
+            <Button x:Name="Button2" Font ="High Tower text" FontSize="Medium" TextColor="Black" Clicked="Button2_Clicked"   Margin="5" Padding="2" CornerRadius="10"  Grid.Row="0" Grid.Column="1" Text="Taurus" BackgroundColor="DarkRed"/>
+            <Button x:Name="Button3" Font ="High Tower text" FontSize="Medium" TextColor="Black" Clicked="Button3_Clicked"  Margin="5" Padding="2" CornerRadius="10"  Grid.Row="0" Grid.Column="2" Text="Gemini" BackgroundColor="DarkSeaGreen"/>
+            
+            <Button x:Name="Button4" Font ="High Tower text" FontSize="Medium" TextColor="Black" Clicked="Button4_Clicked"  Margin="5" Padding="2" CornerRadius="10"  Grid.Row="1" Grid.Column="0" Text="Cancer" BackgroundColor="Brown"/>
+            <Button x:Name="Button5" Font ="High Tower text" FontSize="Medium" TextColor="Black" Clicked="Button5_Clicked"  Margin="5" Padding="2" CornerRadius="10" Grid.Row="3" Grid.Column="0" Text="Leo" BackgroundColor="Gold"/>
+
+            <Button x:Name="Button6" Font ="High Tower text" FontSize="Medium" TextColor="Black" Clicked="Button6_Clicked"  Margin="5" Padding="2" CornerRadius="10"  Grid.Row="1" Grid.Column="2" Text="Virgo" BackgroundColor="LightSeaGreen"/>
+
+            <Entry x:Name="Month" Text="month" PlaceholderColor="Pink" HorizontalOptions="Center" WidthRequest="150"  Grid.Row="2" Grid.Column="0" HorizontalTextAlignment="Center"/>
+            <Entry x:Name="Day" Text="day" PlaceholderColor="Pink" HorizontalOptions="Center" WidthRequest="150"  Grid.Row="2" Grid.Column="2" HorizontalTextAlignment="Center"/>
+            <Button x:Name="Button13" Text="Submit" BackgroundColor="pink" BorderColor="Black"  Clicked="Button13_Clicked" FontSize="Medium"  Grid.Row="2" Grid.Column="1" TextColor="Black" Margin="5" Padding="2" CornerRadius="10" HorizontalOptions="Center"/>
+
+            <Button x:Name="Button7" Font ="High Tower text" FontSize="Medium" TextColor="Black" Clicked="Button7_Clicked"  Margin="5" Padding="2" CornerRadius="10"  Grid.Row="5" Grid.Column="0" Text="Libra" BackgroundColor="Cyan"/>
+            <Button x:Name="Button8" Font ="High Tower text" FontSize="Medium" TextColor="Black" Clicked="Button8_Clicked"  Margin="5" Padding="2" CornerRadius="10"  Grid.Row="5" Grid.Column="2" Text="Scorpius" BackgroundColor="OrangeRed"/>
+
+            <Button x:Name="Button9"  Font ="High Tower text" FontSize="Medium" TextColor="Black" Clicked="Button9_Clicked"  Margin="5" Padding="2" CornerRadius="10"  Grid.Row="6" Grid.Column="0" Text="Sagittarius" BackgroundColor="Purple"/>
+            <Button x:Name="Button10" Font ="High Tower text" FontSize="Medium" TextColor="Black" Clicked="Button10_Clicked"  Margin="5" Padding="2" CornerRadius="10"  Grid.Row="6" Grid.Column="1" Text="Capricorns" BackgroundColor="Pink"/>
+            <Button x:Name="Button11" Font ="High Tower text" FontSize="Medium" TextColor="Black" Clicked="Button11_Clicked"  Margin="5" Padding="2" CornerRadius="10"  Grid.Row="3" Grid.Column="2" Text="Aquarius" BackgroundColor="PeachPuff"/>
+            <Button x:Name="Button12" Font ="High Tower text" FontSize="Medium" TextColor="Black" Clicked="Button12_Clicked"  Margin="5" Padding="2" CornerRadius="10"  Grid.Row="6" Grid.Column="2" Text="Pisces" BackgroundColor="Silver"/>
+        </Grid>
+
+        <Frame BackgroundColor="Salmon"   Padding="16"  Margin="15">
+            <Label Text="Repeat for G00396053/Eoin Lawless" Font ="High Tower text" HorizontalTextAlignment="Center" TextColor="Black" FontSize="48"/>
+        </Frame>
+
+
+
+    </StackLayout>
+
+
+
+</ContentPage>
+

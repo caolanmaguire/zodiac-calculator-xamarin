@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VpbdQN7ki/oUTUr/ewCbQLin5Ahz9XWKDLlp7rSdfBz79kZlP0CrS0QcYyZYuon1nyYka6qG81A3R7g1Im96LA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pauli\\source\\repos\\zodiacDraft\\zodiacDraft\\zodiacDraft.iOS\\zodiacDraft.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pauli\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

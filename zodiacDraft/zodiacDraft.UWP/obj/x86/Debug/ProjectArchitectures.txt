@@ -1,0 +1,1 @@
+C:\Users\pauli\source\repos\zodiacDraft\zodiacDraft\zodiacDraft.UWP\zodiacDraft.UWP.csproj;x86

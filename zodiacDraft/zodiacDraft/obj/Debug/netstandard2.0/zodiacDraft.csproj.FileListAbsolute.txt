@@ -1,0 +1,15 @@
+C:\Users\pauli\source\repos\zodiacDraft\zodiacDraft\zodiacDraft\bin\Debug\netstandard2.0\zodiacDraft.deps.json
+C:\Users\pauli\source\repos\zodiacDraft\zodiacDraft\zodiacDraft\bin\Debug\netstandard2.0\zodiacDraft.dll
+C:\Users\pauli\source\repos\zodiacDraft\zodiacDraft\zodiacDraft\bin\Debug\netstandard2.0\ref\zodiacDraft.dll
+C:\Users\pauli\source\repos\zodiacDraft\zodiacDraft\zodiacDraft\bin\Debug\netstandard2.0\zodiacDraft.pdb
+C:\Users\pauli\source\repos\zodiacDraft\zodiacDraft\zodiacDraft\obj\Debug\netstandard2.0\zodiacDraft.csproj.AssemblyReference.cache
+C:\Users\pauli\source\repos\zodiacDraft\zodiacDraft\zodiacDraft\obj\Debug\netstandard2.0\zodiacDraft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauli\source\repos\zodiacDraft\zodiacDraft\zodiacDraft\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\pauli\source\repos\zodiacDraft\zodiacDraft\zodiacDraft\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\pauli\source\repos\zodiacDraft\zodiacDraft\zodiacDraft\obj\Debug\netstandard2.0\zodiacDraft.AssemblyInfoInputs.cache
+C:\Users\pauli\source\repos\zodiacDraft\zodiacDraft\zodiacDraft\obj\Debug\netstandard2.0\zodiacDraft.AssemblyInfo.cs
+C:\Users\pauli\source\repos\zodiacDraft\zodiacDraft\zodiacDraft\obj\Debug\netstandard2.0\zodiacDraft.csproj.CoreCompileInputs.cache
+C:\Users\pauli\source\repos\zodiacDraft\zodiacDraft\zodiacDraft\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\pauli\source\repos\zodiacDraft\zodiacDraft\zodiacDraft\obj\Debug\netstandard2.0\zodiacDraft.dll
+C:\Users\pauli\source\repos\zodiacDraft\zodiacDraft\zodiacDraft\obj\Debug\netstandard2.0\ref\zodiacDraft.dll
+C:\Users\pauli\source\repos\zodiacDraft\zodiacDraft\zodiacDraft\obj\Debug\netstandard2.0\zodiacDraft.pdb
